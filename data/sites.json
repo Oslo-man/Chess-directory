@@ -1,0 +1,5160 @@
+[
+  {
+    "id": "site-001",
+    "name": "Lichess",
+    "url": "https://lichess.org",
+    "categories": [
+      "Bermain Online",
+      "Puzzle",
+      "Belajar",
+      "Analisis",
+      "Komunitas",
+      "Turnamen"
+    ],
+    "description": "Platform catur gratis dan open-source untuk bermain, puzzle, studi, analisis, dan turnamen.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-002",
+    "name": "Chess.com",
+    "url": "https://www.chess.com",
+    "categories": [
+      "Bermain Online",
+      "Puzzle",
+      "Belajar",
+      "Analisis",
+      "Berita",
+      "Komunitas",
+      "Turnamen"
+    ],
+    "description": "Platform catur lengkap untuk bermain, puzzle, pelajaran, analisis, berita, dan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-003",
+    "name": "Internet Chess Club",
+    "url": "https://www.chessclub.com",
+    "categories": [
+      "Bermain Online",
+      "Belajar",
+      "Berita"
+    ],
+    "description": "Server catur online veteran dengan permainan dan konten pelatihan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-004",
+    "name": "PlayChess",
+    "url": "https://play.chessbase.com",
+    "categories": [
+      "Bermain Online",
+      "Analisis",
+      "Turnamen"
+    ],
+    "description": "Server permainan ChessBase untuk bermain dan mengikuti aktivitas catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-005",
+    "name": "Free Internet Chess Server",
+    "url": "https://www.freechess.org",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Server catur internet gratis yang dikelola komunitas.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-006",
+    "name": "Free Chess Club",
+    "url": "https://freechess.club",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Klien web modern untuk bermain melalui jaringan FICS.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-007",
+    "name": "GameKnot",
+    "url": "https://gameknot.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Platform permainan korespondensi dengan tim dan turnamen tematik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-008",
+    "name": "SparkChess",
+    "url": "https://www.sparkchess.com",
+    "categories": [
+      "Bermain Online",
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Platform bermain melawan komputer dan pemain lain dengan karakter AI.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-009",
+    "name": "Lichess4545",
+    "url": "https://www.lichess4545.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Liga catur klasik berbasis Lichess dengan kontrol waktu panjang.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-010",
+    "name": "Chess24",
+    "url": "https://chess24.com",
+    "categories": [
+      "Bermain Online",
+      "Video",
+      "Berita"
+    ],
+    "description": "Portal catur yang menyediakan permainan, video, dan liputan event; bagian dari ekosistem Chess.com.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-011",
+    "name": "PlayStrategy",
+    "url": "https://playstrategy.org",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Server open-source untuk catur dan berbagai permainan strategi/varian.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-012",
+    "name": "MultiplayerChess",
+    "url": "https://multiplayerchess.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Situs sederhana untuk membuat ruang permainan catur online bersama teman.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-013",
+    "name": "FIDE Online Arena",
+    "url": "https://chessarena.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen"
+    ],
+    "description": "Platform permainan online resmi berlisensi FIDE.",
+    "source": "Awesome Chess mirror",
+    "verification": {
+      "source": "Awesome Chess mirror",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-014",
+    "name": "ChessMail",
+    "url": "https://www.chessmail.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Platform catur korespondensi dengan permainan berbasis waktu panjang.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-015",
+    "name": "Red Hot Pawn",
+    "url": "https://www.redhotpawn.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Situs catur korespondensi dengan liga, turnamen, dan komunitas.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-016",
+    "name": "Daily Chess",
+    "url": "https://www.dailychess.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Layanan catur korespondensi untuk permainan santai dan kompetitif.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-017",
+    "name": "ChessWorld",
+    "url": "https://www.chessworld.net",
+    "categories": [
+      "Bermain Online",
+      "Komunitas",
+      "Turnamen"
+    ],
+    "description": "Komunitas catur online dengan permainan korespondensi dan pertandingan tim.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-018",
+    "name": "SchemingMind",
+    "url": "https://www.schemingmind.com",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Klub catur korespondensi dengan turnamen dan pertandingan tematik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-019",
+    "name": "BrainKing",
+    "url": "https://brainking.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Platform permainan papan online yang mencakup catur dan varian.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-020",
+    "name": "PlayOK",
+    "url": "https://www.playok.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Platform permainan papan online yang menyediakan catur dan berbagai permainan lainnya.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-021",
+    "name": "Kurnik Chess",
+    "url": "https://www.kurnik.pl/szachy/",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Ruang permainan catur online dari platform permainan Kurnik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-022",
+    "name": "Caissa",
+    "url": "https://www.caissa.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Situs catur online bersejarah untuk bermain dan komunitas.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-023",
+    "name": "ChessFriends",
+    "url": "https://www.chessfriends.com",
+    "categories": [
+      "Bermain Online",
+      "Komunitas"
+    ],
+    "description": "Platform permainan catur online dengan pemain manusia dan fitur komunitas.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-024",
+    "name": "Pychess",
+    "url": "https://www.pychess.org",
+    "categories": [
+      "Bermain Online",
+      "Bot / AI",
+      "Puzzle",
+      "Bermain Online",
+      "Varian"
+    ],
+    "description": "Server open-source dengan banyak varian, engine, puzzle, dan fitur belajar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-025",
+    "name": "Bughouse Database",
+    "url": "https://www.bughouse-db.org",
+    "categories": [
+      "Database",
+      "Varian"
+    ],
+    "description": "Arsip permainan bughouse dari server FICS.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-026",
+    "name": "ChessTempo",
+    "url": "https://chesstempo.com",
+    "categories": [
+      "Puzzle",
+      "Belajar",
+      "Database",
+      "Analisis"
+    ],
+    "description": "Platform latihan taktik, pembukaan, endgame, database, dan analisis permainan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-027",
+    "name": "ChessPuzzle.net",
+    "url": "https://chesspuzzle.net",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Platform puzzle bertema dengan kursus dan jalur latihan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-028",
+    "name": "Listudy",
+    "url": "https://listudy.org",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Trainer spaced-repetition untuk opening, taktik, dan blindfold chess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-029",
+    "name": "BlitzTactics",
+    "url": "https://blitztactics.com",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Latihan taktik cepat dengan batas waktu.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-030",
+    "name": "Aimchess",
+    "url": "https://www.aimchess.com",
+    "categories": [
+      "Analisis",
+      "Belajar",
+      "Bot / AI"
+    ],
+    "description": "Menganalisis permainan pengguna dan menghasilkan latihan yang dipersonalisasi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-031",
+    "name": "WTHarvey",
+    "url": "https://wtharvey.com",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Arsip puzzle taktik dari permainan master dan koleksi klasik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-032",
+    "name": "ChessTactics.org",
+    "url": "https://www.chesstactics.org",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Latihan taktik dan kursus berdasarkan motif permainan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-033",
+    "name": "Chessly",
+    "url": "https://www.chessly.com",
+    "categories": [
+      "Belajar",
+      "Puzzle"
+    ],
+    "description": "Platform kursus dan latihan catur yang berfokus pada opening dan improvement.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-034",
+    "name": "ChessReps",
+    "url": "https://www.chessreps.com",
+    "categories": [
+      "Belajar",
+      "Tools"
+    ],
+    "description": "Trainer repertoar opening berbasis spaced repetition.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-035",
+    "name": "Opening Scanner",
+    "url": "https://openingscanner.com",
+    "categories": [
+      "Analisis",
+      "Database",
+      "Tools"
+    ],
+    "description": "Menganalisis repertoar opening pemain berdasarkan game yang tersedia.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-036",
+    "name": "ChessDriller",
+    "url": "https://chessdriller.org",
+    "categories": [
+      "Belajar",
+      "Puzzle",
+      "Tools"
+    ],
+    "description": "Trainer opening berbasis spaced repetition dengan kode open-source.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-037",
+    "name": "Disco Chess",
+    "url": "https://www.discochess.com",
+    "categories": [
+      "Puzzle",
+      "Belajar",
+      "Analisis"
+    ],
+    "description": "Trainer metode Woodpecker untuk taktik, opening, dan permainan sendiri.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-038",
+    "name": "Chessbuddy",
+    "url": "https://chessbuddy.app",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ],
+    "description": "Trainer taktik adaptif dengan pengaturan tema dan sesi latihan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-039",
+    "name": "ChessMood",
+    "url": "https://chessmood.com",
+    "categories": [
+      "Belajar",
+      "Video",
+      "Komunitas"
+    ],
+    "description": "Perpustakaan kursus catur dan jalur belajar oleh grandmaster dan pelatih.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-040",
+    "name": "Killer Chess Training",
+    "url": "https://killerchesstraining.com",
+    "categories": [
+      "Belajar",
+      "Video"
+    ],
+    "description": "Platform pelatihan dengan sesi dan kursus dari pelatih catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-041",
+    "name": "ChessDojo",
+    "url": "https://www.chessdojo.club",
+    "categories": [
+      "Belajar",
+      "Komunitas",
+      "Video"
+    ],
+    "description": "Program latihan terstruktur berbasis rating dengan konten dan komunitas.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-042",
+    "name": "Chessiverse",
+    "url": "https://chessiverse.com",
+    "categories": [
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Platform latihan dengan bot berkarakter dan tingkat permainan yang beragam.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-043",
+    "name": "Noctie",
+    "url": "https://noctie.ai",
+    "categories": [
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Partner latihan catur berbasis AI dengan gaya permainan seperti manusia.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-044",
+    "name": "Steps Method",
+    "url": "https://www.stappenmethode.nl/en/",
+    "categories": [
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Kurikulum pembelajaran catur bertahap yang digunakan dalam pendidikan anak.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-045",
+    "name": "Winning Moves",
+    "url": "https://winning-moves.com",
+    "categories": [
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Penerbit dan sumber produk pendidikan catur untuk pemula dan anak.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-046",
+    "name": "Dan Heisman Chess",
+    "url": "https://www.danheisman.com",
+    "categories": [
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Situs pembelajaran dan tulisan pengembangan catur dari Dan Heisman.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-047",
+    "name": "ChessCoachOnline",
+    "url": "https://chesscoachonline.com",
+    "categories": [
+      "Belajar",
+      "Komunitas"
+    ],
+    "description": "Layanan pelatihan catur online untuk anak dan dewasa.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-048",
+    "name": "Quality Chess",
+    "url": "https://www.qualitychess.co.uk",
+    "categories": [
+      "Buku / Materi",
+      "Belajar"
+    ],
+    "description": "Penerbit buku catur dan materi repertoar tingkat lanjut.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-049",
+    "name": "New In Chess",
+    "url": "https://www.newinchess.com",
+    "categories": [
+      "Buku / Materi",
+      "Berita",
+      "Belajar"
+    ],
+    "description": "Penerbit buku dan majalah catur internasional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-050",
+    "name": "Russell Enterprises",
+    "url": "https://russell-enterprises.com",
+    "categories": [
+      "Buku / Materi"
+    ],
+    "description": "Penerbit buku dan referensi catur.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-051",
+    "name": "Dover Publications Chess",
+    "url": "https://store.doverpublications.com",
+    "categories": [
+      "Buku / Materi"
+    ],
+    "description": "Toko penerbitan yang menyediakan edisi klasik catur dan materi terkait.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-052",
+    "name": "Modern Chess",
+    "url": "https://www.modern-chess.com",
+    "categories": [
+      "Belajar",
+      "Buku / Materi",
+      "Video"
+    ],
+    "description": "Platform majalah dan materi latihan catur modern.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-053",
+    "name": "ChessPublishing",
+    "url": "https://www.chesspublishing.com",
+    "categories": [
+      "Belajar",
+      "Berita",
+      "Buku / Materi"
+    ],
+    "description": "Layanan survei opening dan publikasi teori catur.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-054",
+    "name": "The Chess Website",
+    "url": "https://www.thechesswebsite.com",
+    "categories": [
+      "Belajar",
+      "Video"
+    ],
+    "description": "Situs pelajaran catur online dengan video dan artikel.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-055",
+    "name": "Chess Coordinates",
+    "url": "https://www.chesscoordinates.com",
+    "categories": [
+      "Belajar",
+      "Puzzle"
+    ],
+    "description": "Trainer pengenalan koordinat kotak papan catur.",
+    "source": "SetupChess",
+    "verification": {
+      "source": "SetupChess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-056",
+    "name": "Chessify",
+    "url": "https://chessify.me",
+    "categories": [
+      "Analisis",
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Layanan cloud engine untuk analisis dengan Stockfish dan Lc0.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-057",
+    "name": "DecodeChess",
+    "url": "https://decodechess.com",
+    "categories": [
+      "Analisis",
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Menjelaskan rekomendasi engine dalam bahasa yang lebih mudah dipahami.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-058",
+    "name": "NextChessMove",
+    "url": "https://nextchessmove.com",
+    "categories": [
+      "Analisis",
+      "Tools"
+    ],
+    "description": "Kalkulator best move berbasis Stockfish dari posisi catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-059",
+    "name": "ChessMonitor",
+    "url": "https://www.chessmonitor.com",
+    "categories": [
+      "Analisis",
+      "Database",
+      "Tools"
+    ],
+    "description": "Dashboard yang menggabungkan permainan dan statistik catur dari beberapa sumber.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-060",
+    "name": "Chessigma",
+    "url": "https://www.chessigma.com",
+    "categories": [
+      "Analisis",
+      "Bot / AI"
+    ],
+    "description": "Layanan review permainan dengan Stockfish berbasis browser.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-061",
+    "name": "Chessvision.ai",
+    "url": "https://chessvision.ai",
+    "categories": [
+      "Analisis",
+      "Tools",
+      "Bot / AI"
+    ],
+    "description": "Mendeteksi posisi catur dari gambar, PDF, dan video menggunakan pengenalan diagram.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-062",
+    "name": "Syzygy Tablebases",
+    "url": "https://syzygy-tables.info",
+    "categories": [
+      "Analisis",
+      "Tools",
+      "Database"
+    ],
+    "description": "Layanan tablebase untuk posisi endgame sampai tujuh bidak.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-063",
+    "name": "ChessDB",
+    "url": "https://chessdb.cn/cdb.php",
+    "categories": [
+      "Analisis",
+      "Bot / AI",
+      "Database"
+    ],
+    "description": "Database langkah engine yang dapat digunakan untuk mencari rekomendasi dari posisi catur.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-064",
+    "name": "Lichess Opening Database",
+    "url": "https://lichess.org/analysis",
+    "categories": [
+      "Analisis",
+      "Database"
+    ],
+    "description": "Papan analisis Lichess dengan opening explorer dan data game.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-065",
+    "name": "Chess.com Analysis",
+    "url": "https://www.chess.com/analysis",
+    "categories": [
+      "Analisis",
+      "Bot / AI"
+    ],
+    "description": "Papan analisis dan laporan permainan dari Chess.com.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-066",
+    "name": "ChessBase Reader",
+    "url": "https://en.chessbase.com/pages/download",
+    "categories": [
+      "Database",
+      "Analisis",
+      "Tools"
+    ],
+    "description": "Pembaca gratis untuk file ChessBase dan PGN.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-067",
+    "name": "Apronus Chess Tools",
+    "url": "https://www.apronus.com/chess/diagram/editor/",
+    "categories": [
+      "Tools",
+      "Analisis"
+    ],
+    "description": "Editor diagram catur berbasis browser dengan ekspor gambar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-068",
+    "name": "Chess Diagram Generator",
+    "url": "https://www.chessvideos.tv/chess-diagram-generator.php",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Generator diagram catur yang mendukung posisi FEN dan ekspor gambar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-069",
+    "name": "FEN Tool",
+    "url": "https://mutsuntsai.github.io/fen-tool/",
+    "categories": [
+      "Tools",
+      "Analisis"
+    ],
+    "description": "Utilitas FEN ringan untuk membuat dan memeriksa posisi catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-070",
+    "name": "Chessboard.js",
+    "url": "https://chessboardjs.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Komponen papan catur JavaScript untuk aplikasi web.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-071",
+    "name": "Chessground",
+    "url": "https://github.com/lichess-org/chessground",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Komponen UI papan catur yang digunakan Lichess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-072",
+    "name": "React Chessboard",
+    "url": "https://www.npmjs.com/package/react-chessboard",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Komponen React untuk menampilkan papan catur interaktif.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-073",
+    "name": "Python-chess docs",
+    "url": "https://python-chess.readthedocs.io",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Dokumentasi library Python untuk aturan, PGN, FEN, engine, dan tablebase.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-074",
+    "name": "Chess.js",
+    "url": "https://github.com/jhlywa/chess.js",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library JavaScript untuk validasi langkah dan pemrosesan PGN/FEN.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-075",
+    "name": "Chessops",
+    "url": "https://github.com/niklasf/chessops",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library TypeScript untuk aturan catur, parsing PGN/FEN, dan varian.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-076",
+    "name": "CQL Chess Query Language",
+    "url": "https://www.gadycosteff.com/cql/README.html",
+    "categories": [
+      "Tools",
+      "Database"
+    ],
+    "description": "Bahasa kueri untuk mencari pola posisi dan langkah pada koleksi PGN.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-077",
+    "name": "PGN Mentor",
+    "url": "https://www.pgnmentor.com",
+    "categories": [
+      "Database",
+      "Buku / Materi"
+    ],
+    "description": "Kumpulan file PGN berdasarkan pemain, opening, dan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-078",
+    "name": "Caissabase",
+    "url": "https://caissabase.co.uk",
+    "categories": [
+      "Database"
+    ],
+    "description": "Database permainan catur besar yang dapat diunduh untuk penelitian dan analisis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-079",
+    "name": "FICS Games Database",
+    "url": "https://www.ficsgames.org",
+    "categories": [
+      "Database"
+    ],
+    "description": "Arsip permainan yang dimainkan di Free Internet Chess Server.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-080",
+    "name": "Lichess Open Database",
+    "url": "https://database.lichess.org",
+    "categories": [
+      "Database",
+      "Tools"
+    ],
+    "description": "Kumpulan bulanan game Lichess dalam format data terbuka.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-081",
+    "name": "Lichess Puzzle Database",
+    "url": "https://database.lichess.org/#puzzles",
+    "categories": [
+      "Database",
+      "Puzzle"
+    ],
+    "description": "Kumpulan data puzzle Lichess untuk riset dan pengembangan aplikasi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-082",
+    "name": "Lichess Evaluation Database",
+    "url": "https://database.lichess.org/#evals",
+    "categories": [
+      "Database",
+      "Analisis"
+    ],
+    "description": "Data evaluasi cloud Stockfish dari banyak posisi Lichess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-083",
+    "name": "Lichess Elite Database",
+    "url": "https://database.nikonoel.fr",
+    "categories": [
+      "Database"
+    ],
+    "description": "Subset game Lichess dari pemain berperingkat tinggi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-084",
+    "name": "BeginChess PGN Downloads",
+    "url": "https://beginchess.com/downloads/",
+    "categories": [
+      "Database",
+      "Buku / Materi"
+    ],
+    "description": "Kumpulan PGN permainan klasik dan koleksi game untuk diunduh.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-085",
+    "name": "Lumbras Gigabase",
+    "url": "https://lumbrasgigabase.com/en",
+    "categories": [
+      "Database"
+    ],
+    "description": "Database game catur besar untuk referensi dan analisis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-086",
+    "name": "Chessgames.com",
+    "url": "https://www.chessgames.com",
+    "categories": [
+      "Database",
+      "Komunitas",
+      "Buku / Materi"
+    ],
+    "description": "Database game klasik dengan komentar dan diskusi komunitas.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-087",
+    "name": "365Chess",
+    "url": "https://www.365chess.com",
+    "categories": [
+      "Database",
+      "Analisis"
+    ],
+    "description": "Database permainan dengan opening explorer dan statistik pemain.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-088",
+    "name": "ChessBase Online Database",
+    "url": "https://database.chessbase.com",
+    "categories": [
+      "Database",
+      "Analisis"
+    ],
+    "description": "Database online ChessBase untuk mencari dan meninjau permainan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-089",
+    "name": "ChessTempo Game Database",
+    "url": "https://chesstempo.com/game-database",
+    "categories": [
+      "Database",
+      "Analisis"
+    ],
+    "description": "Database game dengan opening explorer dan pohon repertoar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-090",
+    "name": "ChessBase",
+    "url": "https://www.chessbase.com",
+    "categories": [
+      "Database",
+      "Analisis",
+      "Berita",
+      "Tools"
+    ],
+    "description": "Ekosistem perangkat lunak, database, berita, dan analisis catur profesional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-091",
+    "name": "The Week in Chess",
+    "url": "https://theweekinchess.com",
+    "categories": [
+      "Berita",
+      "Database",
+      "Turnamen"
+    ],
+    "description": "Situs berita mingguan dengan arsip PGN dan laporan turnamen.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-092",
+    "name": "Chessdom",
+    "url": "https://www.chessdom.com",
+    "categories": [
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Media catur independen dengan berita dan liputan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-093",
+    "name": "ChessBase India",
+    "url": "https://www.chessbase.in",
+    "categories": [
+      "Berita",
+      "Video",
+      "Turnamen"
+    ],
+    "description": "Media catur India dengan berita, wawancara, dan liputan turnamen.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-094",
+    "name": "Chess Life",
+    "url": "https://new.uschess.org/news",
+    "categories": [
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Berita resmi US Chess tentang turnamen dan perkembangan catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-095",
+    "name": "British Chess Magazine",
+    "url": "https://britishchessmagazine.co.uk",
+    "categories": [
+      "Berita",
+      "Buku / Materi"
+    ],
+    "description": "Majalah catur Inggris dengan berita dan artikel catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-096",
+    "name": "American Chess Magazine",
+    "url": "https://acmchess.com",
+    "categories": [
+      "Berita",
+      "Buku / Materi"
+    ],
+    "description": "Majalah catur dengan artikel dan liputan permainan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-097",
+    "name": "Kingpin Chess Magazine",
+    "url": "https://www.kingpinchess.net",
+    "categories": [
+      "Berita",
+      "Buku / Materi"
+    ],
+    "description": "Majalah catur dengan artikel dan tulisan editorial.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-098",
+    "name": "ChessTech News",
+    "url": "https://www.chesstech.org",
+    "categories": [
+      "Berita",
+      "Tools"
+    ],
+    "description": "Newsletter yang membahas catur dan teknologi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-099",
+    "name": "ChessGoals",
+    "url": "https://chessgoals.com",
+    "categories": [
+      "Belajar",
+      "Analisis",
+      "Berita"
+    ],
+    "description": "Situs improvement dengan benchmark rating dan analisis latihan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-100",
+    "name": "Next Level Chess",
+    "url": "https://nextlevelchess.com",
+    "categories": [
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Artikel dan newsletter pengembangan catur dari Noël Studer.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-101",
+    "name": "Lichess Blog",
+    "url": "https://lichess.org/blog",
+    "categories": [
+      "Berita",
+      "Tools"
+    ],
+    "description": "Blog resmi Lichess tentang pembaruan platform dan pengembangan open-source.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-102",
+    "name": "Chessable Blog",
+    "url": "https://www.chessable.com/blog",
+    "categories": [
+      "Berita",
+      "Belajar"
+    ],
+    "description": "Artikel dan berita pembelajaran dari Chessable.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-103",
+    "name": "Perpetual Chess Podcast",
+    "url": "https://www.perpetualchesspod.com",
+    "categories": [
+      "Video",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Podcast wawancara dengan pemain, pelatih, dan penulis catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-104",
+    "name": "C-Squared Podcast",
+    "url": "https://c2pod.com",
+    "categories": [
+      "Video",
+      "Berita"
+    ],
+    "description": "Podcast tentang berita catur elite dan pembicaraan pemain top.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-105",
+    "name": "Chess Journeys",
+    "url": "https://chess-journeys.com",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Podcast tentang perjalanan improvement pemain catur dewasa.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-106",
+    "name": "Chess in Education",
+    "url": "https://chessineducation.org",
+    "categories": [
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Portal sumber daya pendidikan catur dan konferensi scholastic.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-107",
+    "name": "National Scholastic Chess Foundation",
+    "url": "https://nscfchess.org",
+    "categories": [
+      "Belajar",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Organisasi nirlaba yang menyediakan pendidikan dan turnamen catur bagi siswa.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-108",
+    "name": "Chess in the Schools",
+    "url": "https://chessintheschools.org",
+    "categories": [
+      "Belajar",
+      "Komunitas"
+    ],
+    "description": "Program pendidikan catur untuk siswa sekolah.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-109",
+    "name": "Worldchess",
+    "url": "https://worldchess.com",
+    "categories": [
+      "Turnamen",
+      "Bermain Online",
+      "Berita"
+    ],
+    "description": "Platform siaran dan aktivitas event catur internasional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-110",
+    "name": "Grand Chess Tour",
+    "url": "https://grandchesstour.org",
+    "categories": [
+      "Turnamen",
+      "Berita"
+    ],
+    "description": "Sirkuit turnamen elite internasional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-111",
+    "name": "Tata Steel Chess",
+    "url": "https://tatasteelchess.com",
+    "categories": [
+      "Turnamen",
+      "Berita"
+    ],
+    "description": "Situs turnamen tahunan Tata Steel Chess di Wijk aan Zee.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-112",
+    "name": "Norway Chess",
+    "url": "https://norwaychess.no",
+    "categories": [
+      "Turnamen",
+      "Berita"
+    ],
+    "description": "Situs turnamen Norway Chess di Stavanger.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-113",
+    "name": "Chess-results.com",
+    "url": "https://chess-results.com",
+    "categories": [
+      "Turnamen",
+      "Database"
+    ],
+    "description": "Server hasil turnamen untuk pairing, standing, dan hasil pertandingan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-114",
+    "name": "TCEC",
+    "url": "https://tcec-chess.com",
+    "categories": [
+      "Turnamen",
+      "Bot / AI"
+    ],
+    "description": "Kejuaraan engine catur dengan pertandingan engine jangka panjang.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-115",
+    "name": "Freestyle Chess",
+    "url": "https://www.freestyle-chess.com",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Varian"
+    ],
+    "description": "Situs sirkuit pertandingan catur dengan format Fischer Random/Chess960.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-116",
+    "name": "Chess.com Events",
+    "url": "https://www.chess.com/events",
+    "categories": [
+      "Turnamen",
+      "Berita"
+    ],
+    "description": "Hub event dan kompetisi Chess.com.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-117",
+    "name": "Swiss-Manager",
+    "url": "https://swiss-manager.at",
+    "categories": [
+      "Tools",
+      "Turnamen"
+    ],
+    "description": "Perangkat pairing turnamen Swiss dan pengelolaan hasil.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-118",
+    "name": "SwissSys",
+    "url": "https://www.chessroster.com/swisssys",
+    "categories": [
+      "Tools",
+      "Turnamen"
+    ],
+    "description": "Perangkat lunak manajemen turnamen untuk sistem Swiss dan round-robin.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-119",
+    "name": "Vega Chess",
+    "url": "https://www.vegachess.com",
+    "categories": [
+      "Tools",
+      "Turnamen"
+    ],
+    "description": "Perangkat pairing dan manajemen turnamen lintas platform.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-120",
+    "name": "Tornelo",
+    "url": "https://home.tornelo.com",
+    "categories": [
+      "Tools",
+      "Turnamen",
+      "Bermain Online"
+    ],
+    "description": "Platform turnamen online dengan pairing, arbiter, dan siaran.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-121",
+    "name": "ICCF",
+    "url": "https://www.iccf.com",
+    "categories": [
+      "Turnamen",
+      "Bermain Online"
+    ],
+    "description": "Federasi catur korespondensi internasional dan server resminya.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-122",
+    "name": "LSS Chess Server",
+    "url": "https://lss.chess-server.net/en/",
+    "categories": [
+      "Bermain Online",
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Server catur korespondensi dengan kontrol waktu klasik dan event tematik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-123",
+    "name": "FIDE",
+    "url": "https://www.fide.com",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Database",
+      "Buku / Materi"
+    ],
+    "description": "Federasi catur internasional dengan rating, kalender, aturan, dan berita.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-124",
+    "name": "FIDE Ratings",
+    "url": "https://ratings.fide.com",
+    "categories": [
+      "Database",
+      "Turnamen"
+    ],
+    "description": "Database resmi rating pemain dan federasi FIDE.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-125",
+    "name": "European Chess Union",
+    "url": "https://www.europechess.org",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Organisasi catur Eropa dengan event, berita, dan kejuaraan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-126",
+    "name": "Chess Federation of Canada",
+    "url": "https://chess.ca",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Kanada dengan klub, turnamen, dan sumber daya.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-127",
+    "name": "English Chess Federation",
+    "url": "https://www.englishchess.org.uk",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Inggris dengan kompetisi, berita, dan layanan federasi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-128",
+    "name": "Deutscher Schachbund",
+    "url": "https://www.schachbund.de",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Jerman dengan event nasional dan informasi anggota.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-129",
+    "name": "Fédération Française des Échecs",
+    "url": "https://www.echecs.asso.fr",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Prancis dengan kompetisi dan informasi resmi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-130",
+    "name": "Polish Chess Federation",
+    "url": "https://pzszach.pl",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Polandia dengan kalender dan informasi kompetisi.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-131",
+    "name": "Italian Chess Federation",
+    "url": "https://www.federscacchi.it",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Italia dengan turnamen dan informasi federasi.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-132",
+    "name": "Royal Dutch Chess Federation",
+    "url": "https://www.schaakbond.nl",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Belanda dengan kompetisi dan pembaruan nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-133",
+    "name": "Swedish Chess Federation",
+    "url": "https://schack.se",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Swedia dengan event dan berita nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-134",
+    "name": "Finnish Chess Federation",
+    "url": "https://www.shakki.net",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Finlandia dengan kompetisi dan informasi pemain.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-135",
+    "name": "Spanish Chess Federation",
+    "url": "https://feda.org",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Spanyol dengan turnamen dan informasi resmi.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-136",
+    "name": "Portuguese Chess Federation",
+    "url": "https://fpx.pt",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Portugal dengan kompetisi dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-137",
+    "name": "Czech Chess Federation",
+    "url": "https://www.chess.cz",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Republik Ceko dengan turnamen dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-138",
+    "name": "Hungarian Chess Federation",
+    "url": "https://chess.hu",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Hungaria dengan turnamen dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-139",
+    "name": "Estonian Chess Federation",
+    "url": "https://maleliit.ee",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Estonia dengan kompetisi dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-140",
+    "name": "Latvian Chess Federation",
+    "url": "https://sahafederacija.lv",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Latvia dengan turnamen dan informasi resmi.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-141",
+    "name": "Armenian Chess Federation",
+    "url": "https://www.chessfed.am",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Armenia dengan event dan informasi pemain.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-142",
+    "name": "Kazakhstan Chess Federation",
+    "url": "https://kazchess.kz",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Kazakhstan dengan event dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-143",
+    "name": "Uzbekistan Chess Federation",
+    "url": "https://uzchess.uz",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Uzbekistan dengan turnamen dan berita nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-144",
+    "name": "All India Chess Federation",
+    "url": "https://aicf.in",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur India dengan turnamen, regulasi, dan berita.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-145",
+    "name": "Malaysia Chess Federation",
+    "url": "https://malaysiachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Organisasi catur Malaysia dengan kompetisi dan kegiatan nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-146",
+    "name": "Vietnam Chess Federation",
+    "url": "https://vietnamchess.vn",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Organisasi catur Vietnam dengan berita dan kompetisi nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-147",
+    "name": "Israel Chess Federation",
+    "url": "https://www.chess.org.il",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Israel dengan turnamen dan berita nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-148",
+    "name": "Turkish Chess Federation",
+    "url": "https://www.tsf.org.tr",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Turki dengan event, rating, dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-149",
+    "name": "Jordan Chess Federation",
+    "url": "https://jordanchess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Organisasi catur Yordania dengan turnamen dan komunitas.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-150",
+    "name": "Australian Chess Federation",
+    "url": "https://www.australianchess.com.au",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Australia dengan event dan informasi nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-151",
+    "name": "New Zealand Chess Federation",
+    "url": "https://newzealandchess.co.nz",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Selandia Baru dengan kompetisi dan berita.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-152",
+    "name": "Percasi",
+    "url": "https://percasi.or.id",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Persatuan catur Indonesia dengan informasi kejuaraan dan kegiatan federasi.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-153",
+    "name": "Chess South Africa",
+    "url": "https://chessa.co.za",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Afrika Selatan dengan turnamen dan program nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-154",
+    "name": "Chess Kenya",
+    "url": "https://chesskenya.co.ke",
+    "categories": [
+      "Turnamen",
+      "Komunitas",
+      "Belajar"
+    ],
+    "description": "Federasi dan ekosistem catur Kenya dengan program sekolah dan turnamen.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-155",
+    "name": "Uganda Chess Federation",
+    "url": "https://ugandachessfederation.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas",
+      "Belajar"
+    ],
+    "description": "Federasi catur Uganda dengan kompetisi dan program pengembangan.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-156",
+    "name": "Egyptian Chess Federation",
+    "url": "https://egyptchess.org",
+    "categories": [
+      "Turnamen",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Federasi catur Mesir dengan event dan kegiatan nasional.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-157",
+    "name": "Stockfish",
+    "url": "https://stockfishchess.org",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur open-source Stockfish untuk analisis dan pengujian.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-158",
+    "name": "Leela Chess Zero",
+    "url": "https://lczero.org",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin neural-network open-source yang terinspirasi AlphaZero.",
+    "source": "UrlDora",
+    "verification": {
+      "source": "UrlDora",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-159",
+    "name": "HIARCS",
+    "url": "https://www.hiarcs.com",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur dan perangkat analisis dengan fokus permainan positional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-160",
+    "name": "Fairy-Stockfish",
+    "url": "https://github.com/fairy-stockfish/Fairy-Stockfish",
+    "categories": [
+      "Bot / AI",
+      "Varian",
+      "Tools"
+    ],
+    "description": "Fork Stockfish yang mendukung banyak varian catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-161",
+    "name": "Berserk Chess Engine",
+    "url": "https://github.com/jhonnold/berserk",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin UCI open-source untuk analisis dan pertandingan engine.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-162",
+    "name": "Caissa Chess Engine",
+    "url": "https://github.com/Witek902/Caissa",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin NNUE open-source untuk analisis engine.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-163",
+    "name": "Viridithas",
+    "url": "https://github.com/cosmobobak/viridithas",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur Rust dengan NNUE untuk analisis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-164",
+    "name": "Stormphrax",
+    "url": "https://github.com/Ciekce/Stormphrax",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin NNUE C++ untuk catur standar dan Chess960.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-165",
+    "name": "Alexandria Chess Engine",
+    "url": "https://github.com/PGG106/Alexandria",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur open-source untuk pencarian dan evaluasi posisi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-166",
+    "name": "RubiChess",
+    "url": "https://github.com/Matthies/RubiChess",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin UCI open-source dengan NNUE dan dukungan pengujian engine.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-167",
+    "name": "Seer",
+    "url": "https://github.com/connormcmonigle/seer-nnue",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin NNUE eksperimental untuk analisis posisi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-168",
+    "name": "Koivisto",
+    "url": "https://github.com/Luecx/Koivisto",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin NNUE open-source untuk pertandingan dan analisis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-169",
+    "name": "Ethereal",
+    "url": "https://github.com/AndyGrant/Ethereal",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur open-source dengan fokus pencarian dan NNUE.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-170",
+    "name": "Igel",
+    "url": "https://github.com/vshcherbyna/igel",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin UCI dengan dukungan NNUE.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-171",
+    "name": "Minic",
+    "url": "https://github.com/tryingsomestuff/Minic",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Mesin catur C++ ringan dengan UCI.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-172",
+    "name": "Sunfish",
+    "url": "https://github.com/thomasahle/sunfish",
+    "categories": [
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Mesin Python kecil yang sering digunakan sebagai contoh implementasi catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-173",
+    "name": "Maia Chess",
+    "url": "https://www.maiachess.com",
+    "categories": [
+      "Bot / AI",
+      "Belajar"
+    ],
+    "description": "Model catur neural yang meniru gaya manusia pada berbagai tingkat.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-174",
+    "name": "SPCC",
+    "url": "https://www.sp-cc.de",
+    "categories": [
+      "Bot / AI",
+      "Database"
+    ],
+    "description": "Daftar rating engine komputer yang diperbarui melalui pengujian.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-175",
+    "name": "OpenBench",
+    "url": "https://github.com/AndyGrant/OpenBench",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Framework pengujian SPRT terdistribusi untuk engine catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-176",
+    "name": "Fishtest",
+    "url": "https://github.com/official-stockfish/fishtest",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Sistem pengujian terdistribusi yang digunakan dalam pengembangan Stockfish.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-177",
+    "name": "En Croissant",
+    "url": "https://encroissant.org",
+    "categories": [
+      "Analisis",
+      "Database",
+      "Tools"
+    ],
+    "description": "Aplikasi analisis open-source dengan database, engine, dan opening explorer.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-178",
+    "name": "Scid vs PC",
+    "url": "https://scidvspc.sourceforge.net",
+    "categories": [
+      "Database",
+      "Analisis",
+      "Tools"
+    ],
+    "description": "GUI database dan analisis PGN open-source.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-179",
+    "name": "ChessX",
+    "url": "https://chessx.sourceforge.io",
+    "categories": [
+      "Database",
+      "Analisis",
+      "Tools"
+    ],
+    "description": "Aplikasi lintas platform untuk database PGN dan analisis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-180",
+    "name": "XBoard",
+    "url": "https://www.gnu.org/software/xboard/",
+    "categories": [
+      "Analisis",
+      "Tools"
+    ],
+    "description": "GUI chess dari GNU Project untuk mengoperasikan engine.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-181",
+    "name": "Cute Chess",
+    "url": "https://github.com/cutechess/cutechess",
+    "categories": [
+      "Analisis",
+      "Turnamen",
+      "Tools"
+    ],
+    "description": "GUI dan pengelola pertandingan engine lintas platform.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-182",
+    "name": "Lucas Chess",
+    "url": "https://lucaschess.pythonanywhere.com",
+    "categories": [
+      "Belajar",
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Program latihan dengan banyak engine, tutor, dan latihan taktik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-183",
+    "name": "Nibbler",
+    "url": "https://github.com/rooklift/nibbler",
+    "categories": [
+      "Analisis",
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "GUI analisis berbasis Electron yang berfokus pada Leela Chess Zero.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-184",
+    "name": "Chess Programming Wiki",
+    "url": "https://www.chessprogramming.org",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Referensi komunitas tentang algoritme dan pemrograman engine catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-185",
+    "name": "Chess Stack Exchange",
+    "url": "https://chess.stackexchange.com",
+    "categories": [
+      "Komunitas",
+      "Buku / Materi"
+    ],
+    "description": "Situs tanya jawab untuk teori, aturan, komposisi, dan pemrograman catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-186",
+    "name": "ChessPub",
+    "url": "https://www.chesspub.com",
+    "categories": [
+      "Komunitas",
+      "Belajar",
+      "Buku / Materi"
+    ],
+    "description": "Forum dan komunitas yang berfokus pada teori opening.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-187",
+    "name": "ChessBase India Twitch",
+    "url": "https://www.twitch.tv/chessbaseindia",
+    "categories": [
+      "Video",
+      "Berita"
+    ],
+    "description": "Saluran streaming ChessBase India untuk event dan program catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-188",
+    "name": "Saint Louis Chess Club",
+    "url": "https://saintlouischessclub.org",
+    "categories": [
+      "Komunitas",
+      "Belajar",
+      "Turnamen"
+    ],
+    "description": "Klub catur dan pusat event yang juga memproduksi kuliah dan konten belajar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-189",
+    "name": "World Chess Hall of Fame",
+    "url": "https://worldchesshof.org",
+    "categories": [
+      "Komunitas",
+      "Buku / Materi"
+    ],
+    "description": "Museum dan pusat sejarah catur di Saint Louis.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-190",
+    "name": "Chess House",
+    "url": "https://www.chesshouse.com",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Toko perlengkapan dan buku catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-191",
+    "name": "House of Staunton",
+    "url": "https://www.houseofstaunton.com",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Toko set catur, papan, jam, dan perlengkapan turnamen.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-192",
+    "name": "American Chess Equipment",
+    "url": "https://www.amchesseq.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Pemasok perlengkapan catur turnamen.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-193",
+    "name": "DGT",
+    "url": "https://www.digitalgametechnology.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Produsen jam catur dan papan elektronik untuk permainan dan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-194",
+    "name": "ChessUp",
+    "url": "https://playchessup.com",
+    "categories": [
+      "Tools",
+      "Belajar"
+    ],
+    "description": "Papan catur elektronik interaktif dengan bantuan belajar.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-195",
+    "name": "Chessnut",
+    "url": "https://www.chessnutech.com",
+    "categories": [
+      "Tools",
+      "Bermain Online"
+    ],
+    "description": "Produsen papan catur elektronik untuk permainan online.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-196",
+    "name": "Computer Chess",
+    "url": "https://computerchess.com/us",
+    "categories": [
+      "Tools",
+      "Bot / AI"
+    ],
+    "description": "Situs produk chess computer dari Millennium.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-197",
+    "name": "USCF Sales",
+    "url": "https://www.uscfsales.com",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Toko resmi perlengkapan catur US Chess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-198",
+    "name": "Official Staunton",
+    "url": "https://www.officialstaunton.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Produsen set catur gaya Staunton dan koleksi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-199",
+    "name": "Chess Bazaar",
+    "url": "https://www.chessbazaar.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Toko online set, papan, jam, dan perlengkapan catur.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-200",
+    "name": "Wholesale Chess",
+    "url": "https://www.wholesalechess.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Pemasok perlengkapan catur untuk pemain dan klub.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-201",
+    "name": "Regency Chess",
+    "url": "https://www.regencychess.co.uk",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Toko perlengkapan dan set catur di Inggris.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-202",
+    "name": "Chess Baron",
+    "url": "https://www.chessbaron.com",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Toko perlengkapan catur dan set handmade.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-203",
+    "name": "Chess Central",
+    "url": "https://www.chesscentral.com",
+    "categories": [
+      "Tools",
+      "Buku / Materi"
+    ],
+    "description": "Toko buku, perangkat, dan perlengkapan catur.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-204",
+    "name": "Chess Shop EU",
+    "url": "https://www.chessshop.eu",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Toko perlengkapan dan aksesori catur di Eropa.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-205",
+    "name": "YACPDB",
+    "url": "https://www.yacpdb.org",
+    "categories": [
+      "Database",
+      "Puzzle",
+      "Buku / Materi"
+    ],
+    "description": "Database besar komposisi masalah catur dan studi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-206",
+    "name": "ARVES",
+    "url": "https://www.arves.org",
+    "categories": [
+      "Database",
+      "Puzzle",
+      "Komunitas"
+    ],
+    "description": "Asosiasi dan sumber daya studi endgame catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-207",
+    "name": "SuperProblem",
+    "url": "https://superproblem.ru/index-en.html",
+    "categories": [
+      "Puzzle",
+      "Berita",
+      "Komunitas"
+    ],
+    "description": "Majalah dan situs problem chess dengan kompetisi komposisi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-208",
+    "name": "Meson Chess Problem Database",
+    "url": "http://www.bstephen.me.uk/meson/",
+    "categories": [
+      "Database",
+      "Puzzle"
+    ],
+    "description": "Arsip searchable untuk masalah catur dan studi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-209",
+    "name": "WFCC",
+    "url": "https://www.wfcc.ch",
+    "categories": [
+      "Komunitas",
+      "Turnamen",
+      "Puzzle"
+    ],
+    "description": "Federasi dunia untuk chess composition.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-210",
+    "name": "Chess Composers",
+    "url": "https://chesscomposers.blogspot.com",
+    "categories": [
+      "Buku / Materi",
+      "Komunitas"
+    ],
+    "description": "Blog biografi dan sejarah komposer problem chess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-211",
+    "name": "Handbook FIDE",
+    "url": "https://handbook.fide.com",
+    "categories": [
+      "Buku / Materi"
+    ],
+    "description": "Handbook resmi FIDE termasuk hukum permainan catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-212",
+    "name": "FIDE Arbiters",
+    "url": "https://arbiters.fide.com",
+    "categories": [
+      "Buku / Materi",
+      "Turnamen"
+    ],
+    "description": "Sumber daya dan materi untuk arbiter catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-213",
+    "name": "Wikipedia Chess Portal",
+    "url": "https://en.wikipedia.org/wiki/Portal:Chess",
+    "categories": [
+      "Buku / Materi",
+      "Berita"
+    ],
+    "description": "Portal Wikipedia untuk artikel, sejarah, pemain, dan topik catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": true
+    }
+  },
+  {
+    "id": "site-214",
+    "name": "Stockfish GitHub",
+    "url": "https://github.com/official-stockfish/Stockfish",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Repositori sumber kode engine Stockfish.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-215",
+    "name": "LCZero GitHub",
+    "url": "https://github.com/LeelaChessZero/lc0",
+    "categories": [
+      "Bot / AI",
+      "Tools"
+    ],
+    "description": "Repositori mesin neural-network Leela Chess Zero.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-216",
+    "name": "python-chess GitHub",
+    "url": "https://github.com/niklasf/python-chess",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Repositori library Python untuk aturan catur dan PGN.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-217",
+    "name": "chess-web-api GitHub",
+    "url": "https://github.com/andyruwruw/chess-web-api",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library untuk mengakses Published Data API Chess.com.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-218",
+    "name": "berserk GitHub",
+    "url": "https://github.com/lichess-org/berserk",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Klien Python resmi untuk Lichess API.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-219",
+    "name": "Shakmaty",
+    "url": "https://github.com/niklasf/shakmaty",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library Rust untuk legal move generation dan varian.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-220",
+    "name": "chess-library",
+    "url": "https://github.com/Disservin/chess-library",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library C++ modern untuk generate langkah legal dan perft.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-221",
+    "name": "Scalachess",
+    "url": "https://github.com/lichess-org/scalachess",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library Scala yang digunakan untuk aturan catur Lichess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-222",
+    "name": "chesskit-swift",
+    "url": "https://github.com/chesskit-app/chesskit-swift",
+    "categories": [
+      "Tools"
+    ],
+    "description": "Library Swift untuk aturan dan komunikasi engine catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-223",
+    "name": "lichess-bot",
+    "url": "https://github.com/lichess-bot-devs/lichess-bot",
+    "categories": [
+      "Tools",
+      "Bot / AI"
+    ],
+    "description": "Jembatan Python antara bot Lichess dan engine UCI/XBoard.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-224",
+    "name": "Alaska Chess Federation",
+    "url": "https://alaskachessfederation.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess untuk komunitas dan turnamen Alaska.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-225",
+    "name": "Alabama Chess Federation",
+    "url": "https://alabamachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess untuk komunitas dan turnamen Alabama.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-226",
+    "name": "Arkansas Chess Association",
+    "url": "https://arkansaschess.net",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Situs afiliasi catur Arkansas yang menjadi referensi organisasi dan event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-227",
+    "name": "CalChess",
+    "url": "https://calchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess untuk wilayah Northern California.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-228",
+    "name": "Southern California Chess Federation",
+    "url": "https://scchess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess untuk wilayah Southern California.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-229",
+    "name": "Colorado State Chess Association",
+    "url": "https://coloradochess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Colorado untuk turnamen dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-230",
+    "name": "Connecticut State Chess Association",
+    "url": "https://www.chessct.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Connecticut dengan event dan informasi komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-231",
+    "name": "DC Chess Association",
+    "url": "https://dcchessassociation.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess untuk Washington DC.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-232",
+    "name": "Delaware Chess Association",
+    "url": "https://delawarechessassociation.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Delaware untuk event dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-233",
+    "name": "Florida Chess Association",
+    "url": "https://floridachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Florida dengan turnamen dan informasi komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-234",
+    "name": "Georgia Chess Association",
+    "url": "https://georgiachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Georgia dengan event dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-235",
+    "name": "Hawaii Chess Federation",
+    "url": "https://www.hawaiichess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Hawaii dengan informasi turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-236",
+    "name": "Iowa State Chess Association",
+    "url": "https://www.iowa-chess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Iowa untuk event dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-237",
+    "name": "Idaho Chess Association",
+    "url": "https://idahochessassociation.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi US Chess resmi untuk Idaho.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-238",
+    "name": "Illinois Chess Association",
+    "url": "https://il-chess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Illinois dengan event dan informasi pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-239",
+    "name": "Indiana State Chess Association",
+    "url": "https://indianachess.clubexpress.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Indiana dengan informasi organisasi dan event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-240",
+    "name": "Kansas Chess Association",
+    "url": "https://kansaschess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Kansas untuk turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-241",
+    "name": "Kentucky Chess Association",
+    "url": "https://kychess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Kentucky untuk event dan organisasi.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-242",
+    "name": "Louisiana Chess",
+    "url": "https://sites.google.com/site/louisianachess",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Sumber informasi organisasi catur Louisiana.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-243",
+    "name": "Massachusetts Chess Association",
+    "url": "http://www.masschess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Massachusetts dengan kalender dan informasi pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-244",
+    "name": "Maryland Chess Association",
+    "url": "https://mdchess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Maryland untuk turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-245",
+    "name": "Maine Chess Association",
+    "url": "https://chessmaine.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Maine dengan event dan komunitas pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-246",
+    "name": "Michigan Chess Association",
+    "url": "https://www.michess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Michigan untuk kejuaraan dan event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-247",
+    "name": "Minnesota State Chess Association",
+    "url": "https://www.minnesotachess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Minnesota dengan informasi organisasi dan turnamen.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-248",
+    "name": "Missouri Chess Association",
+    "url": "https://mochess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Missouri dengan event dan informasi pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-249",
+    "name": "Mississippi Chess Association",
+    "url": "https://mcachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Mississippi untuk komunitas dan kegiatan.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-250",
+    "name": "Montana Chess Association",
+    "url": "https://montanachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Montana dengan informasi event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-251",
+    "name": "North Carolina Chess Association",
+    "url": "https://ncchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur North Carolina dengan turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-252",
+    "name": "North Dakota Chess Association",
+    "url": "https://ndchess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur North Dakota dengan informasi organisasi.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-253",
+    "name": "Nebraska State Chess Association",
+    "url": "https://nebraskachess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Nebraska dengan event dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-254",
+    "name": "New Hampshire Chess Association",
+    "url": "https://nhchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur New Hampshire untuk turnamen dan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-255",
+    "name": "New Jersey State Chess Federation",
+    "url": "https://njscf.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur New Jersey dengan turnamen dan informasi anggota.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-256",
+    "name": "New Mexico Chess Organization",
+    "url": "https://www.newmexicochess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Organisasi catur New Mexico dengan event dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-257",
+    "name": "Silver State Chess Association",
+    "url": "https://silverstatechess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Nevada saat ini dengan informasi event dan organisasi.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-258",
+    "name": "New York State Chess Association",
+    "url": "https://nysca.net",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur New York dengan turnamen dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-259",
+    "name": "Ohio Chess Association",
+    "url": "https://ohchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Ohio dengan kalender dan kegiatan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-260",
+    "name": "Oklahoma Chess Association",
+    "url": "https://oklahomachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Oklahoma dengan informasi turnamen.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-261",
+    "name": "Oregon Chess Federation",
+    "url": "https://oregonchessfed.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Oregon untuk kejuaraan dan event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-262",
+    "name": "Pennsylvania State Chess Federation",
+    "url": "https://pscfchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Pennsylvania dengan informasi kompetisi.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-263",
+    "name": "Ocean State Chess Association",
+    "url": "https://oceanstatechess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Rhode Island untuk event dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-264",
+    "name": "South Carolina Chess Association",
+    "url": "https://scchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur South Carolina dengan turnamen dan kegiatan pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-265",
+    "name": "South Dakota Chess Association",
+    "url": "https://sdchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur South Dakota dengan informasi event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-266",
+    "name": "Tennessee Chess Association",
+    "url": "https://tnchess.us",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Tennessee untuk turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-267",
+    "name": "Texas Chess Association",
+    "url": "https://texaschess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Texas dengan turnamen dan organisasi pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-268",
+    "name": "Utah Chess Association",
+    "url": "https://utahchess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Utah dengan event dan informasi pemain.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-269",
+    "name": "Virginia Chess Federation",
+    "url": "https://vachess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Virginia dengan turnamen dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-270",
+    "name": "Vermont Scholastic Chess",
+    "url": "https://vermontchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas",
+      "Belajar"
+    ],
+    "description": "Afiliasi catur Vermont dengan fokus scholastic dan turnamen.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-271",
+    "name": "Washington Chess Federation",
+    "url": "https://wachess.com",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Washington dengan turnamen dan kegiatan.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-272",
+    "name": "Wisconsin Chess Association",
+    "url": "https://wischess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur Wisconsin dengan event dan komunitas.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-273",
+    "name": "West Virginia Chess Association",
+    "url": "https://wvchess.org",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Afiliasi catur West Virginia dengan informasi organisasi dan event.",
+    "source": "State federation directory",
+    "verification": {
+      "source": "State federation directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-274",
+    "name": "Marshall Chess Club",
+    "url": "https://www.marshallchessclub.org",
+    "categories": [
+      "Komunitas",
+      "Turnamen",
+      "Belajar"
+    ],
+    "description": "Klub catur bersejarah di New York dengan turnamen dan kegiatan komunitas.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-275",
+    "name": "Mechanics' Institute Chess Club",
+    "url": "https://www.milibrary.org/chess",
+    "categories": [
+      "Komunitas",
+      "Turnamen",
+      "Belajar"
+    ],
+    "description": "Klub catur Mechanics Institute di San Francisco dengan turnamen dan program.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-276",
+    "name": "Berkeley Chess School",
+    "url": "https://berkeleychessschool.org",
+    "categories": [
+      "Belajar",
+      "Komunitas"
+    ],
+    "description": "Sekolah catur untuk anak dan pelajar di kawasan Berkeley.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-277",
+    "name": "Chess Center NYC",
+    "url": "https://www.chesscenter.net",
+    "categories": [
+      "Komunitas",
+      "Belajar",
+      "Turnamen"
+    ],
+    "description": "Pusat pembelajaran dan kegiatan catur di New York.",
+    "source": "Curated",
+    "verification": {
+      "source": "Curated",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-278",
+    "name": "US Chess College Chess",
+    "url": "https://new.uschess.org/college-chess-information",
+    "categories": [
+      "Turnamen",
+      "Komunitas"
+    ],
+    "description": "Sumber informasi kompetisi catur perguruan tinggi di Amerika Serikat.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-279",
+    "name": "UT Dallas Chess",
+    "url": "https://chess.utdallas.edu",
+    "categories": [
+      "Komunitas",
+      "Turnamen",
+      "Belajar"
+    ],
+    "description": "Program catur universitas dan informasi tim UT Dallas.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-280",
+    "name": "Webster University SPICE",
+    "url": "https://www.webster.edu/spice/",
+    "categories": [
+      "Belajar",
+      "Komunitas",
+      "Turnamen"
+    ],
+    "description": "Program catur universitas dan kegiatan Susan Polgar Institute.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-281",
+    "name": "Saint Louis University Chess",
+    "url": "https://www.slu.edu/life-at-slu/chess-team/",
+    "categories": [
+      "Komunitas",
+      "Turnamen",
+      "Belajar"
+    ],
+    "description": "Informasi tim catur Saint Louis University.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-282",
+    "name": "Chess.com Forums",
+    "url": "https://www.chess.com/forum",
+    "categories": [
+      "Komunitas"
+    ],
+    "description": "Forum diskusi resmi komunitas Chess.com.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-283",
+    "name": "Lichess Forum",
+    "url": "https://lichess.org/forum",
+    "categories": [
+      "Komunitas"
+    ],
+    "description": "Forum resmi Lichess untuk diskusi, bantuan, dan umpan balik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-284",
+    "name": "Reddit Chess",
+    "url": "https://www.reddit.com/r/chess/",
+    "categories": [
+      "Komunitas",
+      "Berita"
+    ],
+    "description": "Komunitas Reddit utama untuk berita dan diskusi catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-285",
+    "name": "Reddit Chess Beginners",
+    "url": "https://www.reddit.com/r/chessbeginners/",
+    "categories": [
+      "Komunitas",
+      "Belajar"
+    ],
+    "description": "Komunitas Reddit untuk pemain yang baru belajar dan improvement.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-286",
+    "name": "Reddit Chess Puzzles",
+    "url": "https://www.reddit.com/r/chesspuzzles/",
+    "categories": [
+      "Komunitas",
+      "Puzzle"
+    ],
+    "description": "Komunitas berbagi puzzle, studies, dan masalah catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-287",
+    "name": "Reddit AnarchyChess",
+    "url": "https://www.reddit.com/r/AnarchyChess/",
+    "categories": [
+      "Komunitas"
+    ],
+    "description": "Komunitas hiburan dan meme yang bertema catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-288",
+    "name": "Twitch Chess",
+    "url": "https://www.twitch.tv/chess",
+    "categories": [
+      "Video",
+      "Turnamen"
+    ],
+    "description": "Saluran Twitch resmi untuk event dan program catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-289",
+    "name": "Twitch GMHikaru",
+    "url": "https://www.twitch.tv/gmhikaru",
+    "categories": [
+      "Video",
+      "Bermain Online"
+    ],
+    "description": "Saluran streaming catur Hikaru Nakamura.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-290",
+    "name": "Twitch BotezLive",
+    "url": "https://www.twitch.tv/botezlive",
+    "categories": [
+      "Video",
+      "Komunitas"
+    ],
+    "description": "Saluran streaming Botez bersaudari dengan konten catur dan komunitas.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-291",
+    "name": "Twitch GothamChess",
+    "url": "https://www.twitch.tv/gothamchess",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Saluran streaming GothamChess untuk permainan dan pembahasan catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-292",
+    "name": "Twitch Eric Rosen",
+    "url": "https://www.twitch.tv/imrosen",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Saluran streaming Eric Rosen dengan sesi pengajaran dan permainan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-293",
+    "name": "Twitch Anna Cramling",
+    "url": "https://www.twitch.tv/anna_chess",
+    "categories": [
+      "Video",
+      "Komunitas"
+    ],
+    "description": "Saluran streaming Anna Cramling untuk game dan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-294",
+    "name": "GothamChess YouTube",
+    "url": "https://www.youtube.com/@GothamChess",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Berita"
+    ],
+    "description": "Kanal video tentang pelajaran, review, dan berita catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-295",
+    "name": "GM Hikaru YouTube",
+    "url": "https://www.youtube.com/@GMHikaru",
+    "categories": [
+      "Video",
+      "Analisis"
+    ],
+    "description": "Kanal Hikaru untuk analisis, speedrun, dan event catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-296",
+    "name": "agadmator",
+    "url": "https://www.youtube.com/@agadmator",
+    "categories": [
+      "Video",
+      "Buku / Materi"
+    ],
+    "description": "Kanal yang membahas game klasik dan kontemporer.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-297",
+    "name": "Daniel Naroditsky",
+    "url": "https://www.youtube.com/@DanielNaroditskyGM",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Analisis"
+    ],
+    "description": "Arsip video speedrun dan materi pengajaran catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-298",
+    "name": "Eric Rosen",
+    "url": "https://www.youtube.com/@EricRosen",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Video pengajaran, opening traps, dan speedrun.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-299",
+    "name": "ChessNetwork",
+    "url": "https://www.youtube.com/@ChessNetwork",
+    "categories": [
+      "Video",
+      "Analisis",
+      "Belajar"
+    ],
+    "description": "Kanal analisis game dan komentar catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-300",
+    "name": "John Bartholomew",
+    "url": "https://www.youtube.com/@JohnBartholomewChess",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Kanal pengembangan rating dan pengajaran catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-301",
+    "name": "Saint Louis Chess Club YouTube",
+    "url": "https://www.youtube.com/@STLChessClub",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Turnamen"
+    ],
+    "description": "Kuliah grandmaster dan liputan kejuaraan.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-302",
+    "name": "ChessBase India YouTube",
+    "url": "https://www.youtube.com/@ChessBaseIndiachannel",
+    "categories": [
+      "Video",
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Kanal liputan event dan wawancara catur India.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-303",
+    "name": "Ben Finegold",
+    "url": "https://www.youtube.com/@GMBenjaminFinegold",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Kuliah dan tanya jawab catur dari Ben Finegold.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-304",
+    "name": "Anna Cramling YouTube",
+    "url": "https://www.youtube.com/@AnnaCramling",
+    "categories": [
+      "Video",
+      "Komunitas"
+    ],
+    "description": "Vlog perjalanan, permainan, dan turnamen catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-305",
+    "name": "PowerPlayChess",
+    "url": "https://www.youtube.com/@PowerPlayChess",
+    "categories": [
+      "Video",
+      "Analisis"
+    ],
+    "description": "Analisis game elite dan event FIDE oleh Daniel King.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-306",
+    "name": "ChessCoach Andras",
+    "url": "https://www.youtube.com/@ChessCoachAndras",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Pelajaran improvement untuk pemain klub dan improver.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-307",
+    "name": "ChessVibes",
+    "url": "https://www.youtube.com/@ChessVibesOfficial",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Video pengembangan praktis, opening, dan strategi.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-308",
+    "name": "Hanging Pawns",
+    "url": "https://www.youtube.com/@HangingPawns",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Seri opening, strategi, dan perjalanan rating.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-309",
+    "name": "Chessbrah",
+    "url": "https://www.youtube.com/chessbrah",
+    "categories": [
+      "Video",
+      "Komunitas",
+      "Bermain Online"
+    ],
+    "description": "Kanal catur dengan seri Building Habits dan speedrun.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-310",
+    "name": "Anna Rudolf",
+    "url": "https://www.youtube.com/@annarudolfchess",
+    "categories": [
+      "Video",
+      "Analisis",
+      "Berita"
+    ],
+    "description": "Analisis, vlog, dan komentar event catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-311",
+    "name": "Tania Sachdev",
+    "url": "https://www.youtube.com/@TaniaSachdevChess",
+    "categories": [
+      "Video",
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Komentar dan liputan event catur internasional.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-312",
+    "name": "Anish Giri",
+    "url": "https://www.youtube.com/@AnishGiriOfficial",
+    "categories": [
+      "Video",
+      "Analisis",
+      "Belajar"
+    ],
+    "description": "Materi opening dan komentar turnamen dari Anish Giri.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-313",
+    "name": "Jan Gustafsson",
+    "url": "https://www.youtube.com/@JanistanTV",
+    "categories": [
+      "Video",
+      "Belajar"
+    ],
+    "description": "Materi opening dan kelas analisis catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-314",
+    "name": "Chessexplained",
+    "url": "https://www.youtube.com/@Chessexplained",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Analisis"
+    ],
+    "description": "Analisis opening dan materi improvement.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-315",
+    "name": "Kingscrusher",
+    "url": "https://www.youtube.com/@kingscrusher",
+    "categories": [
+      "Video",
+      "Analisis"
+    ],
+    "description": "Analisis game klasik, engine, dan Leela Chess Zero.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-316",
+    "name": "Blitzstream",
+    "url": "https://www.youtube.com/@Blitzstream",
+    "categories": [
+      "Video",
+      "Berita",
+      "Bermain Online"
+    ],
+    "description": "Kanal berbahasa Prancis tentang blitz dan event catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-317",
+    "name": "Julien Song",
+    "url": "https://www.youtube.com/@JulienSong",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Berita"
+    ],
+    "description": "Konten catur berbahasa Prancis tentang event dan improvement.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-318",
+    "name": "The Big Greek",
+    "url": "https://www.youtube.com/@TheBigGreek",
+    "categories": [
+      "Video",
+      "Belajar",
+      "Berita"
+    ],
+    "description": "Konten catur berbahasa Jerman tentang improvement dan event.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-319",
+    "name": "Rey Enigma",
+    "url": "https://www.youtube.com/@ReyEnigma",
+    "categories": [
+      "Video",
+      "Komunitas",
+      "Berita"
+    ],
+    "description": "Video tantangan catur jalanan dan permainan melawan publik.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-320",
+    "name": "Samay Raina Chess",
+    "url": "https://www.youtube.com/@samayrainachess",
+    "categories": [
+      "Video",
+      "Komunitas",
+      "Turnamen"
+    ],
+    "description": "Konten hiburan, event, dan komunitas catur India.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-321",
+    "name": "FIDE Calendar",
+    "url": "https://calendar.fide.com",
+    "categories": [
+      "Turnamen",
+      "Database"
+    ],
+    "description": "Kalender resmi event catur FIDE.",
+    "source": "FIDE directory",
+    "verification": {
+      "source": "FIDE directory",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-322",
+    "name": "Chessdom Calendar",
+    "url": "https://calendar.chessdom.com",
+    "categories": [
+      "Turnamen",
+      "Berita"
+    ],
+    "description": "Kalender turnamen catur dari Chessdom.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-323",
+    "name": "Lichess Broadcasts",
+    "url": "https://lichess.org/broadcast",
+    "categories": [
+      "Turnamen",
+      "Bermain Online"
+    ],
+    "description": "Siaran langsung event catur dengan papan interaktif.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-324",
+    "name": "FIDE News",
+    "url": "https://www.fide.com/news",
+    "categories": [
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Berita resmi federasi catur internasional.",
+    "source": "FIDE",
+    "verification": {
+      "source": "FIDE",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-325",
+    "name": "Chess.com News",
+    "url": "https://www.chess.com/news",
+    "categories": [
+      "Berita",
+      "Turnamen"
+    ],
+    "description": "Berita dan laporan event dari Chess.com.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-326",
+    "name": "New In Chess Magazine",
+    "url": "https://www.newinchess.com/magazine",
+    "categories": [
+      "Berita",
+      "Buku / Materi"
+    ],
+    "description": "Majalah catur internasional dengan berita dan artikel.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-327",
+    "name": "FIDE Handbook",
+    "url": "https://handbook.fide.com/chapter/E012023",
+    "categories": [
+      "Buku / Materi"
+    ],
+    "description": "Bagian Handbook FIDE yang memuat Laws of Chess.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-328",
+    "name": "FIDE Arbiters Manual",
+    "url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2025.pdf",
+    "categories": [
+      "Buku / Materi",
+      "Turnamen"
+    ],
+    "description": "Manual referensi untuk arbiter catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-329",
+    "name": "PGN Specification",
+    "url": "https://www.thechessdrum.net/PGN_Reference.txt",
+    "categories": [
+      "Buku / Materi",
+      "Tools"
+    ],
+    "description": "Referensi Portable Game Notation untuk data permainan catur.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-330",
+    "name": "UCI Protocol",
+    "url": "https://backscattering.de/chess/uci/",
+    "categories": [
+      "Buku / Materi",
+      "Tools"
+    ],
+    "description": "Spesifikasi Universal Chess Interface untuk komunikasi engine.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "id": "site-331",
+    "name": "pgn-extract",
+    "url": "https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/",
+    "categories": [
+      "Tools",
+      "Database"
+    ],
+    "description": "Perangkat untuk memfilter, mengonversi, dan memperbaiki file PGN.",
+    "source": "Awesome Chess",
+    "verification": {
+      "source": "Awesome Chess",
+      "directLiveCheckedInSession": false
+    }
+  },
+  {
+    "name": "WintrChess",
+    "url": "https://wintrchess.com/",
+    "description": "Alat analisis catur yang menggunakan Stockfish untuk evaluasi posisi, accuracy, dan klasifikasi langkah, serta mendukung analisis game/PGN.",
+    "id": "site-332",
+    "categories": [
+      "Analisis",
+      "Game Review"
+    ]
+  },
+  {
+    "name": "Brilliant Chess",
+    "url": "https://github.com/wdeloo/Brilliant-Chess",
+    "description": "Aplikasi catur open-source untuk menganalisis permainan dengan pendekatan yang mirip fitur analisis di platform catur online.",
+    "id": "site-333",
+    "categories": [
+      "Analisis",
+      "Tools"
+    ]
+  },
+  {
+    "name": "CCRL",
+    "url": "https://computerchess.org.uk/",
+    "description": "Computer Chess Rating Lists yang menguji engine melalui banyak permainan dan menerbitkan rating list serta statistik engine.",
+    "id": "site-334",
+    "categories": [
+      "Database",
+      "Bot / AI",
+      "Tools"
+    ]
+  },
+  {
+    "name": "CEGT",
+    "url": "http://www.cegt.net/",
+    "description": "Computer Engine Games Test, berfokus pada pengujian dan perbandingan engine catur melalui pertandingan komputer.",
+    "id": "site-335",
+    "categories": [
+      "Database",
+      "Bot / AI",
+      "Tools"
+    ]
+  },
+  {
+    "name": "Chess.com Computer Chess Championship",
+    "url": "https://www.chess.com/computer-chess-championship",
+    "description": "Kejuaraan engine catur yang berjalan berkelanjutan di Chess.com, dengan permainan engine, evaluasi, statistik, jadwal, dan standings.",
+    "id": "site-336",
+    "categories": [
+      "Turnamen",
+      "Bot / AI"
+    ]
+  },
+  {
+    "name": "World Computer Chess Championship",
+    "url": "https://icga.org/?page_id=3957",
+    "description": "Informasi World Computer Chess Championship yang diselenggarakan dalam ekosistem International Computer Games Association.",
+    "id": "site-337",
+    "categories": [
+      "Turnamen",
+      "Bot / AI"
+    ]
+  },
+  {
+    "name": "QChess",
+    "url": "https://qchess.net/",
+    "description": "Platform catur untuk latihan dan pengelolaan materi permainan seperti database, repertoire, dan latihan catur.",
+    "id": "site-338",
+    "categories": [
+      "Belajar",
+      "Database",
+      "Tools"
+    ]
+  },
+  {
+    "name": "Chessalyz",
+    "url": "https://chessalyz.ai/",
+    "description": "Platform analisis dan pembelajaran catur berbasis AI dengan analisis game, critical moments, pertanyaan terpandu, repertoire, flashcards, dan latihan.",
+    "id": "site-339",
+    "categories": [
+      "Analisis",
+      "Belajar",
+      "Bot / AI"
+    ]
+  },
+  {
+    "name": "Chessvia",
+    "url": "https://www.chessvia.ai/",
+    "description": "AI chess coach untuk bermain melawan AI, menganalisis game dan PGN, serta mendapatkan bantuan pembelajaran melalui percakapan.",
+    "id": "site-340",
+    "categories": [
+      "Belajar",
+      "Analisis",
+      "Bot / AI"
+    ]
+  },
+  {
+    "name": "ChessPecker",
+    "url": "https://www.tacticspecker.com/",
+    "description": "Trainer taktik online berbasis Woodpecker Method untuk membuat set puzzle, mengulang siklus latihan, dan melacak progres.",
+    "id": "site-341",
+    "categories": [
+      "Puzzle",
+      "Belajar"
+    ]
+  }
+]
